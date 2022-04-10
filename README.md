@@ -158,6 +158,13 @@ Now, you should see two devices on addresses `0x57` and `0x18`. The first is the
 
 ### Python
 
+Install the following pip packages
+
+``` shell
+pip install adafruit-circuitpython-lis3dh
+pip install adafruit-circuitpython-busdevice
+```
+
 Create a new file named `acc.py`
 
 ``` shell
